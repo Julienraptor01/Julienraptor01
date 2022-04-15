@@ -1,5 +1,7 @@
 ### Hello there 👋
-### I'm a little dev student that love to try and break things !
+I'm a little dev student that love to try and break things !
+
+Here's my discord if you need to contact me : Julienraptor01#3476
 
 <!--
 **Julienraptor01/Julienraptor01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
