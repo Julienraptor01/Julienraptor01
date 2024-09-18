@@ -1,7 +1,7 @@
 ### Hello there 👋
 I'm a student that love to try and break things !
 
-I currently mostly do Minecraft related stuff
+I currently mostly do Minecraft or Discord related stuff
 
 Here's my discord if you need to contact me : Julienraptor01#3476
 
