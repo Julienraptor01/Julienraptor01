@@ -1,9 +1,9 @@
 ### Hello there 👋
-I'm a student that love to try and break things !
+I'm a ~~student~~ Bachelor that love to try and break things !
 
-I currently mostly do Minecraft or Discord related stuff
+I currently mostly do Minecraft or Discord related stuff (and many other)
 
-Here's my discord if you need to contact me : Julienraptor01#3476
+Here's my discord if you need to contact me : Julienraptor01#3476 (the 4 digits after the username isn't a mistake, just a mark of the past)
 
 <!--
 **Julienraptor01/Julienraptor01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
